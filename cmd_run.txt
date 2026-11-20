@@ -1,0 +1,27 @@
+--> For the backend and database
+
+>> cd backend
+
+>> docker pull postgres:16
+
+>> docker run --name shop-postgres -e POSTGRES_USER=postgres -e POSTGRES_PASSWORD=admin123 -e POSTGRES_DB=shop_inventory -p 5432:5432 -v shop_postgres_data:/var/lib/postgresql/data -d postgres:16docker ps
+
+>> docker start shop-postgres
+ 
+>> npm run db:init
+
+>> npm run dev
+
+>> npm install pg dotenv
+
+>> npm run admin:create
+
+>> npm run dev
+
+--> for the frontend 
+
+>> npm create vite@latest
+
+>> npm install axios react-router-dom lucide-react
+
+>> 
