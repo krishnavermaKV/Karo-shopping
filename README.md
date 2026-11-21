@@ -400,6 +400,14 @@ National Institute of Technology, Agartala
 
 GitHub: [krishnavermaKV](https://github.com/krishnavermaKV)
 
+---
+
+## Demonstration Video (Click on link below)
+
+https://drive.google.com/file/d/1C6vgsD94AXS3TkvhhrtpJLyotkiL5BpH/view?usp=sharing
+
+---
+
 ## Screenshots (First look of our application)
 <img width="800" height="382" alt="Screenshot 2026-11-21 072742" src="https://github.com/user-attachments/assets/e1480c83-994c-42c8-9900-0ae4e92f02f7" />
 <img width="1900" height="916" alt="Screenshot 2026-11-21 072721" src="https://github.com/user-attachments/assets/ec5ffbc1-1423-49e5-95d2-890e9858ca43" />
