@@ -166,12 +166,7 @@ docker start shop-postgres
 If you are setting up PostgreSQL for the first time, create a container:
 
 ```bash
-docker run --name shop-postgres \
-  -e POSTGRES_USER=postgres \
-  -e POSTGRES_PASSWORD=your_password \
-  -e POSTGRES_DB=karo_shopping \
-  -p 5432:5432 \
-  -d postgres:16
+docker run --name shop-postgres -e POSTGRES_USER=postgres -e POSTGRES_PASSWORD=admin123 -e POSTGRES_DB=shop_inventory -p 5432:5432 -v shop_postgres_data:/var/lib/postgresql/data -d postgres:16docker ps
 ```
 
 Replace `your_password` with your own database password.
@@ -310,25 +305,23 @@ Open this URL in your browser to access Karo Shopping.
 
 ### 1. Login Page
 
-![Login Page](screenshots/login.png)
+<img width="1269" height="822" alt="Screenshot 2026-11-21 072802" src="https://github.com/user-attachments/assets/9a060055-8e2e-4070-b9d0-a9a93529a877" />
 
 ### 2. Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+<img width="1892" height="917" alt="Screenshot 2026-11-21 073752" src="https://github.com/user-attachments/assets/9055f391-9a27-40e3-bb6b-59d3c982e92b" />
 
 ### 3. Add New Product
 
-![Add Product](screenshots/add-product.png)
+<img width="1892" height="902" alt="Screenshot 2026-11-21 073557" src="https://github.com/user-attachments/assets/80164bcd-0366-4995-babf-b6ac6f11eecb" />
 
 ### 4. Stock Management
 
-![Stock Management](screenshots/stock-management.png)
+<img width="1894" height="920" alt="Screenshot 2026-11-21 072700" src="https://github.com/user-attachments/assets/db00ade3-9fa2-4d16-ac5e-b9381ec0c2ba" />
 
 ### 5. Billing Page
 
-![Billing Page](screenshots/billing.png)
-
-*Add your actual application screenshots to the screenshots folder using the filenames shown above.*
+<img width="1900" height="916" alt="Screenshot 2026-11-21 072721" src="https://github.com/user-attachments/assets/274c48d8-55bc-41e8-bd19-a4105cb4a849" />
 
 ## 🔄 Application Workflow
 
@@ -408,10 +401,3 @@ https://drive.google.com/file/d/1C6vgsD94AXS3TkvhhrtpJLyotkiL5BpH/view?usp=shari
 
 ---
 
-## Screenshots (First look of our application)
-<img width="800" height="382" alt="Screenshot 2026-11-21 072742" src="https://github.com/user-attachments/assets/e1480c83-994c-42c8-9900-0ae4e92f02f7" />
-<img width="1900" height="916" alt="Screenshot 2026-11-21 072721" src="https://github.com/user-attachments/assets/ec5ffbc1-1423-49e5-95d2-890e9858ca43" />
-<img width="1894" height="920" alt="Screenshot 2026-11-21 072700" src="https://github.com/user-attachments/assets/7b02bf92-8cc2-497e-b169-e33b891567fe" />
-<img width="1892" height="917" alt="Screenshot 2026-11-21 073752" src="https://github.com/user-attachments/assets/946ad251-34ae-4235-b522-6272db99e949" />
-
-----
