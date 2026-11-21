@@ -218,10 +218,7 @@ exports.getProducts = async (req, res) => {
         };
 
         if (search) {
-            addCondition(
-                "name ILIKE ?",
-                `%${search.trim()}%`
-            );
+            addCondition("p.name ILIKE ?", `%${search.trim()}%`);
         }
 
         if (category) {
@@ -284,7 +281,7 @@ exports.getProducts = async (req, res) => {
 
         const countResult = await pool.query(
             `SELECT COUNT(*)::int AS total
-             FROM products ${whereClause}`,
+             FROM products p ${whereClause}`,
             values
         );
 
