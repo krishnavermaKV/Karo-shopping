@@ -400,4 +400,10 @@ National Institute of Technology, Agartala
 
 GitHub: [krishnavermaKV](https://github.com/krishnavermaKV)
 
+## Screenshots (First look of our application)
+<img width="800" height="382" alt="Screenshot 2026-11-21 072742" src="https://github.com/user-attachments/assets/e1480c83-994c-42c8-9900-0ae4e92f02f7" />
+<img width="1900" height="916" alt="Screenshot 2026-11-21 072721" src="https://github.com/user-attachments/assets/ec5ffbc1-1423-49e5-95d2-890e9858ca43" />
+<img width="1894" height="920" alt="Screenshot 2026-11-21 072700" src="https://github.com/user-attachments/assets/7b02bf92-8cc2-497e-b169-e33b891567fe" />
+<img width="1892" height="917" alt="Screenshot 2026-11-21 073752" src="https://github.com/user-attachments/assets/946ad251-34ae-4235-b522-6272db99e949" />
+
 ----
