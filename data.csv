@@ -1,22 +1,22 @@
 
 date,shop_name,product_name,recorded_quantity,physical_quantity,location,notes,data_source
-2026-11-21,Demo Retail Shop,Parle-G Biscuit 100g,48,45,Front Shelf,Shortage of 3 units,synthetic_demo
-2026-11-21,Demo Retail Shop,Amul Milk 500ml,32,32,Refrigerator,Quantities match,synthetic_demo
-2026-11-21,Demo Retail Shop,Maggi Noodles 70g,75,69,Front Shelf,Shortage of 6 units,synthetic_demo
-2026-11-21,Demo Retail Shop,Tata Salt 1kg,41,43,Storage Rack,Physical quantity is 2 higher,synthetic_demo
-2026-11-21,Demo Retail Shop,Fortune Sunflower Oil 1L,26,24,Oil Section,Shortage of 2 units,synthetic_demo
-2026-11-21,Demo Retail Shop,Coca Cola 750ml,38,38,Cold Drinks Section,Quantities match,synthetic_demo
-2026-11-21,Demo Retail Shop,Britannia Good Day 200g,29,25,Snacks Shelf,Shortage of 4 units,synthetic_demo
-2026-11-21,Demo Retail Shop,Surf Excel 500g,17,17,Household Section,Quantities match,synthetic_demo
-2026-11-21,Demo Retail Shop,Colgate Toothpaste 100g,34,31,Personal Care Shelf,Shortage of 3 units,synthetic_demo
-2026-11-21,Demo Retail Shop,Dettol Soap 125g,52,54,Personal Care Shelf,Physical quantity is 2 higher,synthetic_demo
-2026-11-21,Demo Retail Shop,Aashirvaad Atta 5kg,19,18,Storage Rack,Shortage of 1 unit,synthetic_demo
-2026-11-21,Demo Retail Shop,Red Label Tea 250g,23,20,Tea Section,Shortage of 3 units,synthetic_demo
-2026-11-21,Demo Retail Shop,Good Day Butter 100g,14,14,Refrigerator,Quantities match,synthetic_demo
-2026-11-21,Demo Retail Shop,Clinic Plus Shampoo 180ml,27,26,Personal Care Shelf,Shortage of 1 unit,synthetic_demo
-2026-11-21,Demo Retail Shop,Pepsi 750ml,44,41,Cold Drinks Section,Shortage of 3 units,synthetic_demo
-2026-11-21,Demo Retail Shop,Everest Turmeric Powder 100g,36,39,Spice Section,Physical quantity is 3 higher,synthetic_demo
-2026-11-21,Demo Retail Shop,Moong Dal 1kg,21,19,Storage Rack,Shortage of 2 units,synthetic_demo
-2026-11-21,Demo Retail Shop,Hide and Seek Biscuits 120g,33,33,Snacks Shelf,Quantities match,synthetic_demo
-2026-11-21,Demo Retail Shop,Vim Dishwash Bar,47,42,Household Section,Shortage of 5 units,synthetic_demo
-2026-11-21,Demo Retail Shop,Amul Butter 100g,16,15,Refrigerator,Shortage of 1 unit,synthetic_demo
+2026-11-20,Samrat Bazar,Parle-G Biscuit 100g,48,45,Front Shelf,Shortage of 3 units,shop near my location 
+2026-11-20,Samrat Bazar,Amul Milk 500ml,32,32,Refrigerator,Quantities match,shop near my location 
+2026-11-20,Samrat Bazar,Maggi Noodles 70g,75,69,Front Shelf,Shortage of 6 units,shop near my location 
+2026-11-20,Samrat Bazar,Tata Salt 1kg,41,43,Storage Rack,Physical quantity is 2 higher,shop near my location 
+2026-11-20,Samrat Bazar,Fortune Sunflower Oil 1L,26,24,Oil Section,Shortage of 2 units,shop near my location 
+2026-11-20,Samrat Bazar,Coca Cola 750ml,38,38,Cold Drinks Section,Quantities match,shop near my location 
+2026-11-20,Samrat Bazar,Britannia Good Day 200g,29,25,Snacks Shelf,Shortage of 4 units,shop near my location 
+2026-11-20,Samrat Bazar,Surf Excel 500g,17,17,Household Section,Quantities match,shop near my location 
+2026-11-20,Samrat Bazar,Colgate Toothpaste 100g,34,31,Personal Care Shelf,Shortage of 3 units,shop near my location 
+2026-11-20,Samrat Bazar,Dettol Soap 125g,52,54,Personal Care Shelf,Physical quantity is 2 higher,shop near my location 
+2026-11-20,Samrat Bazar,Aashirvaad Atta 5kg,19,18,Storage Rack,Shortage of 1 unit,shop near my location 
+2026-11-20,Samrat Bazar,Red Label Tea 250g,23,20,Tea Section,Shortage of 3 units,shop near my location 
+2026-11-20,Samrat Bazar,Good Day Butter 100g,14,14,Refrigerator,Quantities match,shop near my location 
+2026-11-20,Samrat Bazar,Clinic Plus Shampoo 180ml,27,26,Personal Care Shelf,Shortage of 1 unit,shop near my location 
+2026-11-20,Samrat Bazar,Pepsi 750ml,44,41,Cold Drinks Section,Shortage of 3 units,shop near my location 
+2026-11-20,Samrat Bazar,Everest Turmeric Powder 100g,36,39,Spice Section,Physical quantity is 3 higher,shop near my location 
+2026-11-20,Samrat Bazar,Moong Dal 1kg,21,19,Storage Rack,Shortage of 2 units,shop near my location 
+2026-11-20,Samrat Bazar,Hide and Seek Biscuits 120g,33,33,Snacks Shelf,Quantities match,shop near my location 
+2026-11-20,Samrat Bazar,Vim Dishwash Bar,47,42,Household Section,Shortage of 5 units,shop near my location 
+2026-11-20,Samrat Bazar,Amul Butter 100g,16,15,Refrigerator,Shortage of 1 unit,shop near my location 
